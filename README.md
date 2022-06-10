@@ -8,7 +8,7 @@ i茅台app 每日自动预约 抢茅台
 # 使用方法
 ## 1.拉取镜像
 ```docker
-docker pull onlyOneStone/imaotai:latest
+docker pull onlyonestone/imaotai:latest
 ```
 ## 2.创建容器
 
